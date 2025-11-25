@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Zijie Zhang"
-  avatar : "/assets/images/avatar.jpg"
+  avatar : "/assets/images/avatar.png"
   bio: "AI Undergraduate @ Nanjing University | Research Focus: Multimodal Large Models (MLLMs)"
   links:
     - label: "Website"
